@@ -1,5 +1,5 @@
 {
-  "version": "1.0.6",
-  "changelog": "Détection automatique des inventaires et refonte de l'affichage console.",
+  "version": "1.0.7",
+  "changelog": "Refonte de L'ui Gerer le profil, Groupes & roles",
   "download": "https://portal.cfx.re/assets/granted-assets?page=1&sort=asset.updated_at&direction=asc"
 }
