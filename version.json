@@ -1,5 +1,5 @@
 {
-  "version": "1.0.8",
-  "changelog": "Refonte complète des bridges skin, notification, ambulance, fuel et inventory. Ajout des fichiers client/server par système, ajout du fallback default",
+  "version": "1.2.0",
+  "changelog": "v1.2.0 - Ajout du système de Pointage & Analytics Staff (Duty Tracker)",
   "download": "https://portal.cfx.re/assets/granted-assets?page=1&sort=asset.updated_at&direction=asc"
 }
