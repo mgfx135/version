@@ -1,5 +1,5 @@
 {
-  "version": "1.3.0",
-  "changelog": "v1.3.0 - Add native FiveM Key Mapping for all 3D Laser actions allowing players to customize keys in FiveM Settings",
-  "download": "https://portal.cfx.re/assets/granted-assets?page=1&sort=asset.updated_at&direction=asc"
+  "version": "1.3.2",
+  "changelog": "v1.3.2 - Correction de la mise à jour en temps réel du HUD staff lors de la désactivation du mode staff",
+  "download": "https://portal.cfx.re/assets/granted-asset"
 }
