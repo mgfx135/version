@@ -1,5 +1,5 @@
 {
-  "version": "1.3.7",
-  "changelog": "v1.3.2 - Correction de la mise à jour en temps réel du HUD staff lors de la désactivation du mode staff",
+  "version": "1.4.1",
+  "changelog": "v1.4.1 - Correctifs de sécurité : permissions, bans hors-ligne, ACE",
   "download": "https://portal.cfx.re/assets/granted-asset"
 }
