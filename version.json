@@ -1,5 +1,5 @@
 {
-  "version": "1.4.1",
-  "changelog": "v1.4.1 - Correctifs de sécurité : permissions, bans hors-ligne, ACE",
+  "version": "1.4.2",
+  "changelog": "v1.4.2 - Correctifs audit : hiérarchie staff, wipe fiable, prison au redémarrage, fingerprint sans sanction auto, logs Discord",
   "download": "https://portal.cfx.re/assets/granted-asset"
 }
