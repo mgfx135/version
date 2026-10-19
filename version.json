@@ -1,5 +1,5 @@
 {
-  "version": "1.5.1",
-  "changelog": "v1.5.1 - Tablette « Configuration du serveur » : tous les réglages modifiables en jeu et appliqués en direct, éditeur du menu par glisser-déposer, onglet Logs avec destination par type de log (tablette, Discord, webhook dédié) et anti-spam Discord. Fichiers de configuration annotés (réglages modifiables en jeu ou fichier uniquement).",
+  "version": "1.5.2",
+  "changelog": "v1.5.2 - Support des bridges opw_fuel (carburant enregistré côté serveur) et opw_vehiclekeys (clé temporaire au spawn staff). Inclut la 1.5.x : tablette « Configuration du serveur » (tous les réglages en jeu, appliqués en direct), éditeur du menu par glisser-déposer, onglet Logs avec destination par type de log (tablette, Discord, webhook dédié).",
   "download": "https://portal.cfx.re/assets/granted-asset"
 }
