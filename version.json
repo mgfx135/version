@@ -1,5 +1,5 @@
 {
-  "version": "1.5.0",
-  "changelog": "v1.5.0 - Tablette « Configuration du serveur » : tous les réglages modifiables en jeu et appliqués en direct (général, outils staff, modération, prison, tenues staff, peds, technique, commandes, bridges, captures), éditeur du menu par glisser-déposer, nouvel onglet Logs : destination par type de log (tablette, Discord, webhook dédié pour chacun des 29 types) avec anti-spam Discord et bouton de test",
+  "version": "1.5.1",
+  "changelog": "v1.5.1 - Tablette « Configuration du serveur » : tous les réglages modifiables en jeu et appliqués en direct, éditeur du menu par glisser-déposer, onglet Logs avec destination par type de log (tablette, Discord, webhook dédié) et anti-spam Discord. Fichiers de configuration annotés (réglages modifiables en jeu ou fichier uniquement).",
   "download": "https://portal.cfx.re/assets/granted-asset"
 }
