@@ -1,5 +1,5 @@
 {
-  "version": "1.5.3",
-  "changelog": "v1.5.3 - Nouveaux bridges : GN_Ambulance (réanimation et soin via son API, état médical à jour) et GN_Clothing / GN_Clothing_Lite (tenue civile restaurée après le mode staff) ; opw_fuel et opw_vehiclekeys alignés sur leur API 2.0.0. Inclut la 1.5.x : tablette « Configuration du serveur », éditeur du menu, onglet Logs par type.",
+  "version": "1.5.4",
+  "changelog": "v1.5.4 - Bridges carburant et clés renommés GN_Fuel et GN_VehicleKeys (anciennement opw_fuel / opw_vehiclekeys). Inclut la 1.5.x : bridges GN_Ambulance et GN_Clothing, tablette « Configuration du serveur », éditeur du menu, onglet Logs par type.",
   "download": "https://portal.cfx.re/assets/granted-asset"
 }
